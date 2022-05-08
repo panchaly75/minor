@@ -1,2 +1,4 @@
 # minor
 Smart Saline Level Monitoring System
+
+In the process of medication, it is a common practice to treat patients with saline for dehydration and other medical ailments to improve the health condition of the patients. When fed with saline continuous observation of nurses is mandatory in monitoring the level of the saline. There are many cases where patients are being harmed due to the staff inattentiveness, as their absence does not notice the completion of saline level in the container. This arise the problem of back flow of blood immediately after the completion of saline in container. Hence to protect the patient from getting harmed a smart saline level monitoring system has been developed. The proposed model incorporates a circuit which continuously detects the saline drops. Whenever the sensor does not detect the drops for a certain interval it alerts the staff of the hospital with the buzzer, helping to monitor the safety of the patients.
